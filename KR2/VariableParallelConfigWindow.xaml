@@ -1,0 +1,42 @@
+<Window x:Class="KR2.VariableParallelConfigWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Параллельный запуск по переменной"
+        Height="270"
+        Width="430"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Настройте диапазон для серии запусков (10000 симуляций на каждое значение)." Margin="0,0,0,10" TextWrapping="Wrap"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Переменная:" VerticalAlignment="Center" Margin="0,0,8,8"/>
+        <ComboBox x:Name="VariableComboBox" Grid.Row="1" Grid.Column="1" Margin="0,0,0,8" SelectedIndex="0"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="От (включительно):" VerticalAlignment="Center" Margin="0,0,8,8"/>
+        <TextBox x:Name="FromTextBox" Grid.Row="2" Grid.Column="1" Margin="0,0,0,8"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="До (включительно):" VerticalAlignment="Center" Margin="0,0,8,8"/>
+        <TextBox x:Name="ToTextBox" Grid.Row="3" Grid.Column="1" Margin="0,0,0,8"/>
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Шаг:" VerticalAlignment="Center" Margin="0,0,8,8"/>
+        <TextBox x:Name="StepTextBox" Grid.Row="4" Grid.Column="1" Margin="0,0,0,8" VerticalAlignment="Top"/>
+
+        <StackPanel Grid.Row="5" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Отмена" Width="90" Margin="0,0,8,0" Click="CancelButton_Click"/>
+            <Button Content="Запуск" Width="90" Click="RunButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
