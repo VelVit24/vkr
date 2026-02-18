@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\batchsimulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\batchsimulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\variableparallelresultswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\variableparallelresultswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\variablerunstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\variablerunstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\batchsimulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\batchsimulationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\parameters\\simulationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,16 +95,16 @@
       "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\bounds\\polybound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\parralresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\parralresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\parallelresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\parallelresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\bounds\\ibound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\bounds\\ibound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\parralresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\parralresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\parallelresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|solutionrelative:kr2\\parallelresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC48A1BD-73CA-490A-B268-BC915F83A8D5}|KR2\\KR2.csproj|c:\\users\\user\\desktop\\\u0444\u0430\u0439\u043B\u044B\\\u043A\u0440\\kr2\\kr2\\sensor\\sensorslim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,19 +131,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\App.xaml",
+              "RelativeDocumentMoniker": "KR2\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\App.xaml",
+              "RelativeToolTip": "KR2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T14:52:15.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VariableParallelResultsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableParallelResultsWindow.xaml.cs",
               "RelativeDocumentMoniker": "KR2\\VariableParallelResultsWindow.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableParallelResultsWindow.xaml.cs",
               "RelativeToolTip": "KR2\\VariableParallelResultsWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T14:42:44.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VariableParallelConfigWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableParallelConfigWindow.xaml.cs",
               "RelativeDocumentMoniker": "KR2\\VariableParallelConfigWindow.xaml.cs",
@@ -147,24 +163,22 @@
               "RelativeToolTip": "KR2\\VariableParallelConfigWindow.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T14:42:36.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T14:42:36.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VariableParallelConfigWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableParallelConfigWindow.xaml",
               "RelativeDocumentMoniker": "KR2\\VariableParallelConfigWindow.xaml",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableParallelConfigWindow.xaml",
               "RelativeToolTip": "KR2\\VariableParallelConfigWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-18T14:42:25.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T14:42:25.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "VariableRunStats.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\VariableRunStats.cs",
               "RelativeDocumentMoniker": "KR2\\VariableRunStats.cs",
@@ -172,12 +186,11 @@
               "RelativeToolTip": "KR2\\VariableRunStats.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T14:42:15.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T14:42:15.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "KR2\\AssemblyInfo.cs",
@@ -190,20 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "BatchSimulationRunner.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\BatchSimulationRunner.cs",
               "RelativeDocumentMoniker": "KR2\\BatchSimulationRunner.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\BatchSimulationRunner.cs",
               "RelativeToolTip": "KR2\\BatchSimulationRunner.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T14:41:47.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ObservedPoint.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Points\\ObservedPoint.cs",
               "RelativeDocumentMoniker": "KR2\\Points\\ObservedPoint.cs",
@@ -215,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SimulationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\SimulationWindow.xaml.cs",
               "RelativeDocumentMoniker": "KR2\\SimulationWindow.xaml.cs",
@@ -227,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KR2\\MainWindow.xaml",
@@ -238,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KR2\\MainWindow.xaml.cs",
@@ -250,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CircleBound.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Bounds\\CircleBound.cs",
               "RelativeDocumentMoniker": "KR2\\Bounds\\CircleBound.cs",
@@ -262,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CircleBoundPoints.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Points\\CircleBoundPoints.cs",
               "RelativeDocumentMoniker": "KR2\\Points\\CircleBoundPoints.cs",
@@ -274,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Sensor.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Sensor\\Sensor.cs",
               "RelativeDocumentMoniker": "KR2\\Sensor\\Sensor.cs",
@@ -286,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "PolyBoundPoints.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Points\\PolyBoundPoints.cs",
               "RelativeDocumentMoniker": "KR2\\Points\\PolyBoundPoints.cs",
@@ -298,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SimulationParameters.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Parameters\\SimulationParameters.cs",
               "RelativeDocumentMoniker": "KR2\\Parameters\\SimulationParameters.cs",
@@ -306,12 +319,11 @@
               "RelativeToolTip": "KR2\\Parameters\\SimulationParameters.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T08:02:52.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T08:02:52.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SimPoint.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Points\\SimPoint.cs",
               "RelativeDocumentMoniker": "KR2\\Points\\SimPoint.cs",
@@ -323,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "SensorSlim.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Sensor\\SensorSlim.cs",
               "RelativeDocumentMoniker": "KR2\\Sensor\\SensorSlim.cs",
@@ -335,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ISensor.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Sensor\\ISensor.cs",
               "RelativeDocumentMoniker": "KR2\\Sensor\\ISensor.cs",
@@ -347,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "SimulationWindow.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\SimulationWindow.xaml",
               "RelativeDocumentMoniker": "KR2\\SimulationWindow.xaml",
@@ -358,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "RectBound.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Bounds\\RectBound.cs",
               "RelativeDocumentMoniker": "KR2\\Bounds\\RectBound.cs",
@@ -370,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RectangleBoundPoints.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Points\\RectangleBoundPoints.cs",
               "RelativeDocumentMoniker": "KR2\\Points\\RectangleBoundPoints.cs",
@@ -382,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "PolyBound.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Bounds\\PolyBound.cs",
               "RelativeDocumentMoniker": "KR2\\Bounds\\PolyBound.cs",
@@ -394,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Parameters\\FileManager.cs",
               "RelativeDocumentMoniker": "KR2\\Parameters\\FileManager.cs",
@@ -406,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CurrentParameters.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Parameters\\CurrentParameters.cs",
               "RelativeDocumentMoniker": "KR2\\Parameters\\CurrentParameters.cs",
@@ -418,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IBound.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Bounds\\IBound.cs",
               "RelativeDocumentMoniker": "KR2\\Bounds\\IBound.cs",
@@ -430,30 +442,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ParralResults.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParralResults.xaml",
-              "RelativeDocumentMoniker": "KR2\\ParralResults.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParralResults.xaml",
-              "RelativeToolTip": "KR2\\ParralResults.xaml",
+              "DocumentIndex": 25,
+              "Title": "ParallelResults.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParallelResults.xaml",
+              "RelativeDocumentMoniker": "KR2\\ParallelResults.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParallelResults.xaml",
+              "RelativeToolTip": "KR2\\ParallelResults.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-07T09:50:00.425Z"
+              "WhenOpened": "2025-05-07T09:50:00.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ParralResults.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParralResults.xaml.cs",
-              "RelativeDocumentMoniker": "KR2\\ParralResults.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParralResults.xaml.cs",
-              "RelativeToolTip": "KR2\\ParralResults.xaml.cs",
+              "DocumentIndex": 23,
+              "Title": "ParallelResults.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParallelResults.xaml.cs",
+              "RelativeDocumentMoniker": "KR2\\ParallelResults.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\ParallelResults.xaml.cs",
+              "RelativeToolTip": "KR2\\ParallelResults.xaml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAABBwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T09:50:04.392Z"
+              "WhenOpened": "2025-05-07T09:50:04.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "SimulationResults.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0424\u0430\u0439\u043B\u044B\\\u041A\u0420\\KR2\\KR2\\Parameters\\SimulationResults.cs",
               "RelativeDocumentMoniker": "KR2\\Parameters\\SimulationResults.cs",

@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="ParralResults.xaml.cs">
+    <Compile Update="ParallelResults.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="SimulationWindow.xaml.cs">
@@ -18,7 +18,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ParralResults.xaml">
+    <Page Update="ParallelResults.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="SimulationWindow.xaml">

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\obj\Debug\net8.0-windows\
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\
 KR2
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\App.xaml
-51991837676
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\App.xaml
+51617091357
 
-27331291798
+27700757610
 2002001874111
-MainWindow.xaml;ParralResults.xaml;SimulationWindow.xaml;VariableParallelConfigWindow.xaml;VariableParallelResultsWindow.xaml;
+MainWindow.xaml;ParallelResults.xaml;SimulationWindow.xaml;VariableParallelConfigWindow.xaml;VariableParallelResultsWindow.xaml;
 
 False
 

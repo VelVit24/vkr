@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\user\Desktop\Файлы\КР\KR2\KR2\App.xaml
-51991837676
+51617091357
 
-29-1659428849
+29-1289963037
 2002001874111
-MainWindow.xaml;ParralResults.xaml;SimulationWindow.xaml;VariableParallelConfigWindow.xaml;VariableParallelResultsWindow.xaml;
+MainWindow.xaml;ParallelResults.xaml;SimulationWindow.xaml;VariableParallelConfigWindow.xaml;VariableParallelResultsWindow.xaml;
 
 False
 

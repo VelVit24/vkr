@@ -84,7 +84,7 @@ namespace KR2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KR2;V1.0.0.0;component/variableparallelconfigwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KR2;component/variableparallelconfigwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\VariableParallelConfigWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

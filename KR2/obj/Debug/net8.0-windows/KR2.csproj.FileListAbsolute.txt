@@ -24,8 +24,6 @@ C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\refint\KR
 C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\KR2.pdb
 C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\KR2.genruntimeconfig.cache
 C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\ref\KR2.dll
-C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\ParralResults.g.cs
-C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\ParralResults.baml
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\bin\Debug\net8.0-windows\KR2.deps.json
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\bin\Debug\net8.0-windows\KR2.runtimeconfig.json
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\bin\Debug\net8.0-windows\KR2.dll
@@ -58,3 +56,10 @@ C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\obj\Debug\net8.0-windows\V
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\obj\Debug\net8.0-windows\VariableParallelConfigWindow.g.cs
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\obj\Debug\net8.0-windows\VariableParallelResultsWindow.g.cs
 C:\Users\user\Desktop\Файлы\КР\KR2 CODEX 2\KR2\bin\Debug\net8.0-windows\KR2.exe
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\VariableParallelConfigWindow.baml
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\VariableParallelResultsWindow.baml
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\ParallelResults.g.cs
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\VariableParallelConfigWindow.g.cs
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\VariableParallelResultsWindow.g.cs
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\ParallelResults.baml
+C:\Users\user\Desktop\Файлы\КР\KR2\KR2\obj\Debug\net8.0-windows\KR2.sourcelink.json

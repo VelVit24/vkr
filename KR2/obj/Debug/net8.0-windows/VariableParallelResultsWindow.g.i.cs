@@ -68,7 +68,7 @@ namespace KR2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KR2;V1.0.0.0;component/variableparallelresultswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KR2;component/variableparallelresultswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\VariableParallelResultsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
